@@ -29,17 +29,7 @@ global.OWNER_NAME = 'ᴄʀᴀᴡʟ_ꜱʟ_ʏᴛ'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
-global.INBOX_BLOCK_MESSAGE = '*ʏᴏᴜ ᴀʀᴇ ɴᴏᴡ ʙʟᴏᴄᴋᴇᴅ*😅
-
-*ʙᴇᴄᴜᴀꜱᴇ ᴍʏ ᴏᴡɴᴇʀ ᴅᴏɴᴛ ʟɪᴋᴇ ᴜꜱᴇ ʜɪꜱ ɪɴʙᴏx ʏᴏᴜ*
-
-*ʏᴏᴜ ᴡᴀɴᴛ ᴜꜱᴇ ᴛʜɪꜱ ʙᴏᴛ ᴄᴏᴍᴇ ᴏᴜʀ ɢʀᴏᴜᴘ*
-
-*ᴍʏ ɢʀᴏᴜᴘ - https://chat.whatsapp.com/Jojrdp5D3X5DJnuJyaGXes*
-
-*ᴀɴᴅ ꜱᴜʙꜱᴄʀɪʙᴇ ᴀɴᴅ ʟɪᴋᴇ ᴍʏ ᴏᴡɴᴇʀ ʏᴛ ᴄʜᴀɴɴᴇʟ ❤️*
-
-*https://www.youtube.com/@crawl_sl*  😈❤️' // Inboc Block Message
+global.INBOX_BLOCK_MESSAGE = '*ɪɴʙᴏx ɪꜱ ʙʟᴏᴄᴋᴇᴅ ɴᴏᴡ ᴀɴᴅ ᴊᴏɪɴ ᴍʏ ɢʀᴏᴜᴘ https://www.youtube.com/@crawl_sl_yt ᴀɴᴅ ꜱᴜʙꜱᴄʀɪʙᴇ ᴀɴᴅ ʟɪᴋᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ❤️*' // Inboc Block Message
 
 global.INBOX_BLOCK = 'true' // TO Inbox Block On put true
 
