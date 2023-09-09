@@ -29,13 +29,13 @@ global.OWNER_NAME = 'ᴄʀᴀᴡʟ_ꜱʟ_ʏᴛ'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
-global.INBOX_BLOCK_MESSAGE = 'ɪɴʙᴏx ɪꜱ ʙʟᴏᴄᴋᴇᴅ ɴᴏᴡ ᴀɴᴅ ᴊᴏɪɴ ᴍʏ ɢʀᴏᴜᴘ https://www.youtube.com/@crawl_sl_yt ᴀɴᴅ ꜱᴜʙꜱᴄʀɪʙᴇ ᴀɴᴅ ʟɪᴋᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ❤' // Inboc Block Message
+global.INBOX_BLOCK_MESSAGE = 'you are block now sub and like my yt https://www.youtube.com/@crawl_sl_yt and comment your number i will unblock you' // Inboc Block Message
 
 global.INBOX_BLOCK = 'true' // TO Inbox Block On put true
 
 global.READ_MESSAGE = "true" 
 
-global.OPENAI_API_KEY = "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" 
+global.OPENAI_API_KEY = "zuxhDIf4NPCBEfPiOBO6T3BlbkFJeJa1Hi5vdNyyUcevlwtE" 
 
 /*
 ⚙️ BOT  SETTINGS  ⚙️
@@ -43,7 +43,7 @@ global.OPENAI_API_KEY = "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"
 
 global.BOT_NAME = 'ǫᴜᴇᴇɴ ɴɪʟᴜ'
  
-global.BOT_OFFLINE = true    //  Always Onlne -  | false offline -True
+global.BOT_OFFLINE = false     //  Always Onlne -  | false offline -True
 
 global.STICKER_NAME = '@ᴄʀᴀᴡʟ 🤹‍♂️' //sticker
 
@@ -65,7 +65,7 @@ global.ANTI_BAD = 'true' // Antibad (on = True , Off = False )
 
 global.ANTI_BAD_ACTION = true 
 
-global.ANTI_LINK = 'ᴛʀᴜᴇ' //Anti Link (on = True , Off = False )
+global.ANTI_LINK = 'true' //Anti Link (on = True , Off = False )
 
 global.ANTI_BOTS = true
 
