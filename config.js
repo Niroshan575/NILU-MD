@@ -29,7 +29,7 @@ global.OWNER_NAME = 'ᴄʀᴀᴡʟ_ꜱʟ_ʏᴛ'
 
 global.TIMEZONE = 'Asia/Colombo' 
 
-global.INBOX_BLOCK_MESSAGE = '*ɪɴʙᴏx ɪꜱ ʙʟᴏᴄᴋᴇᴅ ɴᴏᴡ ᴀɴᴅ ᴊᴏɪɴ ᴍʏ ɢʀᴏᴜᴘ https://www.youtube.com/@crawl_sl_yt ᴀɴᴅ ꜱᴜʙꜱᴄʀɪʙᴇ ᴀɴᴅ ʟɪᴋᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ❤️*' // Inboc Block Message
+global.INBOX_BLOCK_MESSAGE = 'ɪɴʙᴏx ɪꜱ ʙʟᴏᴄᴋᴇᴅ ɴᴏᴡ ᴀɴᴅ ᴊᴏɪɴ ᴍʏ ɢʀᴏᴜᴘ https://www.youtube.com/@crawl_sl_yt ᴀɴᴅ ꜱᴜʙꜱᴄʀɪʙᴇ ᴀɴᴅ ʟɪᴋᴇ ᴍʏ ʏᴏᴜᴛᴜʙᴇ ᴄʜᴀɴɴᴇʟ❤' // Inboc Block Message
 
 global.INBOX_BLOCK = 'true' // TO Inbox Block On put true
 
