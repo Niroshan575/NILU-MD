@@ -21,7 +21,7 @@
 
 ### Please Give One Star ✨ & [follow  me For notify my updates](https://github.com/Janithsadanuwan)
 
-## [`Version --> 2.0.0`](https://www.janithsadanuwan.tech/QueenNilu)
+## [`Version --> 2.0.1`](https://www.janithsadanuwan.tech/QueenNilu)
 
 
 ## [`WebSite`](https://www.janithsadanuwan.tech/QueenNilu)
@@ -38,9 +38,12 @@
 
 
 
-## Canot cannot copy or clone this repo 😂
+## You Can't copy or clone this repo , Don't Waste Your Time😂
 
-***[JOIN ACCOUNCEMENT GROUP](https://chat.whatsapp.com/LVn5DG2V3UwBY5IDlG58kH)***
+***[JOIN ACCOUNCEMENT GROUP](https://chat.whatsapp.com/Lk3KCbvyaCyJ0QlouEL32K)***
+
+***[JOIN SUPPORT GROUP](https://chat.whatsapp.com/LVn5DG2V3UwBY5IDlG58kH)***
 
 ***[JOIN PUBLIC GROUP](https://chat.whatsapp.com/IRdyJY5P4sF5BhtP5PIdHH)***
+
 ## THANKS FOR USING QUEEN NILU 💃
