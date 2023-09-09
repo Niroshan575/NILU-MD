@@ -35,7 +35,7 @@ global.INBOX_BLOCK = 'true' // TO Inbox Block On put true
 
 global.READ_MESSAGE = "true" 
 
-global.OPENAI_API_KEY = "zuxhDIf4NPCBEfPiOBO6T3BlbkFJeJa1Hi5vdNyyUcevlwtE" 
+global.OPENAI_API_KEY = "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" 
 
 /*
 ⚙️ BOT  SETTINGS  ⚙️
